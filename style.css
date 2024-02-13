@@ -1,0 +1,12 @@
+#img {
+    width: auto;
+    height: auto;
+}
+.nav-link {
+    color: white;
+    font-size: 32px;
+}
+.navbar-nav {
+    gap: 4rem;
+    align-items: center;
+}
