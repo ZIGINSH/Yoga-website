@@ -10,3 +10,15 @@
     gap: 4rem;
     align-items: center;
 }
+.img2 {
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    bottom: 300px;
+    right: 100px;
+    background-color: transparent;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+}
